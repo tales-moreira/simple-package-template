@@ -6,7 +6,7 @@ The package sistema_bancario is used to:
         - Create client
 	- Create account
         - Make a deposit
-        - Meka a Withdraw
+        - Make a Withdraw
         - View account statement
 
 ## Installation
